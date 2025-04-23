@@ -1,40 +1,40 @@
-# JobNest - Job Tracker Web Application
+# 🎯 JobNest - Job Tracker Web Application
 
-*JobNest* is a Django-based web application developed as my final year engineering project. It helps users track and manage job applications in one place with an intuitive interface and powerful features.
-
----
-
-## Features
-
-- User authentication (Register, Login, Logout)
-- Add and manage job applications
-- Status tracking: Applied, Interviewing, Offered, Rejected
-- Filter applications by status
-- Responsive UI using Bootstrap
-- Secure and easy-to-use interface
+*JobNest* is a Django-based web application developed as my 🎓 final year engineering project. It helps users stay organized during their job hunt by tracking job applications with clarity and ease.
 
 ---
 
-## Tech Stack
+## 🚀 Features
 
-- *Backend*: Django (Python)
-- *Frontend*: HTML, CSS, Bootstrap
-- *Database*: SQLite
-- *Authentication*: Django built-in auth system
-
----
-
-## Screenshots
-
-Screenshots will be upload soon !
+- 🔐 User Authentication (Register | Login | Logout)
+- ➕ Add & ✏ Edit job applications
+- 📊 Track job status: Applied | Interviewing | Offered | Rejected
+- 🔍 Filter applications by status
+- 📱 Responsive UI with Bootstrap
+- 🔒 Secure session handling
 
 ---
 
-## Getting Started
+## 🛠 Tech Stack
 
-Follow these steps to run the project locally:
+- *Backend*: Django (Python) 🐍
+- *Frontend*: HTML, CSS, Bootstrap 🎨
+- *Database*: SQLite 🗂
+- *Auth*: Django built-in authentication ✅
 
-### 1. Clone the Repository
+---
+
+## 🖼 Screenshots
+
+Snapshots will be upload soon!
+
+---
+
+## ⚙ Installation & Setup
+
+Follow these steps to run JobNest locally:
+
+### 1. 🔄 Clone the Repository
 
 ```bash
 git clone https://github.com/Lokeshr-06/Jobnest-finalyear-project.git
